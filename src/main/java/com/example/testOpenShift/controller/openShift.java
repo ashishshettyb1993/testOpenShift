@@ -10,6 +10,6 @@ public class openShift {
 
     @GetMapping("/check")
     public String test(){
-        return "Open Shift";
+        return "Open Shift test";
     }
 }
